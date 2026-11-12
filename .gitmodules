@@ -5,3 +5,6 @@
 [submodule "BayesVolcano"]
 	path = BayesVolcano
 	url = https://github.com/katjadanielzik/bayesvolcano
+[submodule "MetPhenoR"]
+	path = MetPhenoR
+	url = https://github.com/katjadanielzik/metphenor
